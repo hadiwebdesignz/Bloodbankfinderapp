@@ -1,0 +1,16 @@
+# dependencies
+/node_modules
+/dist
+/build
+
+# project files
+.env
+.DS_Store
+*.log
+
+# vscode
+.vscode
+
+# misc
+# Vite/Rollup output directory
+/dist
