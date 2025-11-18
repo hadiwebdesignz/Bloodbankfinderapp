@@ -50,7 +50,7 @@ export function Header({ currentPage, onNavigate }: HeaderProps) {
             onClick={() => handleNavClick('home')}
           >
             <div className="bg-white p-2 rounded">
-              <img src="/logo.png" alt="Talash-e-Blood" className="h-18 w-auto" />
+              <img src="logo.png" alt="Talash-e-Blood" className="h-17 w-auto" />
             </div>
             <div className="hidden sm:block">
               <h1 className="text-lg">Talash-e-Blood</h1>
