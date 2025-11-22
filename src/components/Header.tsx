@@ -10,7 +10,7 @@ import {
 } from './ui/sheet';
 
 // FIX: Changed singular 'asset' to plural 'assets' to resolve build error
-import logo from '../assets/536a7fd03fa76df48adf91b3a163115b6684cc7c.png';
+import logo from '../assets/logo.png.png';
 
 interface HeaderProps {
   currentPage: string;
